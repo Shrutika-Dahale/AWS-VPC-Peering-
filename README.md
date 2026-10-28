@@ -111,3 +111,14 @@ This project provided hands-on experience in configuring AWS VPC Peering and ver
 
 Project: AWS VPC Peering
 Platform: Amazon Web Services (AWS)
+## 📸 Project Screenshots
+
+![Screenshot 1](screenshots/IMG-20261028-WA0001.jpg)
+
+![Screenshot 2](screenshots/IMG-20261028-WA0002.jpg)
+
+![Screenshot 3](screenshots/IMG-20261028-WA0003.jpg)
+
+![Screenshot 4](screenshots/IMG-20261028-WA0004.jpg)
+
+![Screenshot 5](screenshots/IMG-20261028-WA0005.jpg)
